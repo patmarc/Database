@@ -1,0 +1,6 @@
+C:\Users\FunnyReal\Source\Repos\Spodigly\Database\Database\bin\Debug\Database.exe.config
+C:\Users\FunnyReal\Source\Repos\Spodigly\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\FunnyReal\Source\Repos\Spodigly\Database\Database\bin\Debug\Database.exe
+C:\Users\FunnyReal\Source\Repos\Spodigly\Database\Database\bin\Debug\Database.pdb
+C:\Users\FunnyReal\Source\Repos\Spodigly\Database\Database\obj\Debug\Database.exe
+C:\Users\FunnyReal\Source\Repos\Spodigly\Database\Database\obj\Debug\Database.pdb
